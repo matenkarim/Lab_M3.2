@@ -2,23 +2,13 @@
 
 ## Overview
 
-TODO: Write a project description
+This project involves marking up a letter in HTML to practice text formatting and proper HTML element usage. Utilized appropriate structure such as doctype, html, body, and head elements.
+
+To run this project, the user needs to clone the repository and can use the Live Preview feature in VSCode or their own preferences when opening an HTML document. 
+
+HTML document was checked through the W3C HTML Validator and shows no errors in code. 
 
 ## Sources and Credits
 
-TODO: You must credit the sources and authors of any code, libraries, or other
-assets you use in your project. If you leave this section blank, your project
-will be considered in violation of the Academic Honesty policy unless you truly
-created everything from scratch with no outside help. If you need to use a
-source that you cannot credit (e.g. a classmate's work), you must get explicit
-permission from your instructor.
-
-A simple bulleted list below is sufficient. For example:
-
-- Bootstrap: https://getbootstrap.com/
-- jQuery: https://jquery.com/
-- Background image: https://unsplash.com/photos/...
-- Sound effects: https://freesound.org/people/...
-- Icons: https://fontawesome.com/
-- Fonts: https://fonts.google.com/
-- etc.
+- HTML Markup: https://developer.mozilla.org/en-US/docs/Web/HTML
+- W3C HTML Validator: https://validator.w3.org/
